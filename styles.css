@@ -1,0 +1,50 @@
+.mi-div {
+    background-color: #eaeaea;
+  }
+
+
+  .rounded-shadow {
+    border-radius: 0.40rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+
+
+.div-colorLinear{
+    background-color: #eeeeee;
+}
+
+.font-family{
+    font-family: 'Kanit', sans-serif;
+}
+
+.div-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+.container-img {
+    position: relative;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+  }
+
+.textXL{
+    font-size:x-large;
+}
+
+.f-medium{
+    font-size: medium;
+}
+.center{
+    text-align: center;
+}
